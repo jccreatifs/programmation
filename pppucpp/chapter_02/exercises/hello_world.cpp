@@ -8,7 +8,8 @@
 #include <iostream>
 
 int main(){
-    std::cout << "Hello, bitches !\n";
+    std::cout << "Hello, World!\n";
+    std::cout << "Here we go!\n";
 	//keep_window_open();
 	
     return 0;
