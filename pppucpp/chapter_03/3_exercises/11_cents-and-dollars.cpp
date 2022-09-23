@@ -1,12 +1,12 @@
 /* Programming Principles and Practicecs Using C++
  * Chapter 3.11 Exercise
  * 
- * prompts the user to enter some number of pennies (1-cent coins), nickels (5-cent coins),
+ * A program that prompts the user to enter some number of pennies (1-cent coins), nickels (5-cent coins),
  * dimes (10-cent coins), quarters (25-cent coins), half dollars (50-cent coins), and one-dollar coins
  * (100-cent coins).
  */
 
-//
+
 #include "std_lib_facilities.h"
 
 int main()
