@@ -1,7 +1,7 @@
 /* Programming Principles and Practicecs Using C++
- * Chapter 3.06v2 Exercise
+ * Chapter 3.07v2 Exercise
  * 
- * A program that prompts the user to enter three ints values, and
+ * A program that prompts the user to enter three string values, and
  * then outputs the values in numerical sequence separated by commas
  */
 
@@ -19,8 +19,8 @@ int main()
 #endif
 
 // Solution starts here
-    std::cout << "Please enter three numbers, separated by spaces: ";
-    int a {0}, b {0}, c {0};
+    std::cout << "Please enter three words, separated by spaces: ";
+    std::string a {0}, b {0}, c {0};
     std::cin >> a >> b >> c;
     std::cout << "\n" << std::endl;
 
