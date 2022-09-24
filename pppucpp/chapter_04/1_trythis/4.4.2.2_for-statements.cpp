@@ -1,7 +1,7 @@
 /* Programming Principles and Practicecs Using C++
  * Chapter 4 Try This section
  * 
- * A program that converts pesos ('P'), yen ('Y'), and won ('W') into dollars.
+ * A program that lists chars (letters, numbers, and spécial characters) and their int équivalent.
  */
 
 #include "../../_/std_lib_facilities.h"
